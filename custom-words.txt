@@ -2512,5 +2512,5 @@ Vuln
 IAASVM
 Quickbase
 Smartsheet
-Qualys
+operatorconnect
 servermetrics
